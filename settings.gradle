@@ -1,0 +1,2 @@
+rootProject.name = 'MinibankMultiModuleExample'
+include 'front', 'middle', 'back'

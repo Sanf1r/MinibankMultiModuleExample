@@ -1,0 +1,8 @@
+server:
+  port: 8021
+telegram:
+  botName: ${BOT_NAME}
+  token: ${BOT_TOKEN}
+api:
+  rest:
+    url: http://localhost:8021

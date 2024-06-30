@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: zolbot
+telegram:
+  botName: ${BOT_NAME}
+  token: ${BOT_TOKEN}
+api:
+  rest:
+    url: http://localhost:8081
